@@ -4,56 +4,34 @@
 
     
   <url>
-    <loc>http://elangem.com/uncategorized/README/</loc>
-    <lastmod>2018-01-27T09:02:40.211Z</lastmod>
+    <loc>http://elangem.com/%E5%BD%B1%E9%9F%B3/%E5%BD%B1%E8%A7%86/passwd1/</loc>
+    <lastmod>2018-01-28T03:28:48.216Z</lastmod>
     <data>
         <display>
-        <title></title>
-        <pubTime>2018-01-27T09:02:40.202Z</pubTime>
+        <title>2017观看影视</title>
+        <pubTime>2017-09-25T08:10:03.000Z</pubTime>
         
+        <tag>影音</tag>
+         
+        <tag>电影</tag>
+         
+        <tag>电视剧</tag>
+         
+        <tag>动画</tag>
+         
          
            
+             
+              <breadCrumb title="影音" url="http://elangem.com/categories/%E5%BD%B1%E9%9F%B3/"/>
+          
+             
+              <breadCrumb title="影视" url="http://elangem.com/categories/%E5%BD%B1%E9%9F%B3/%E5%BD%B1%E8%A7%86/"/>
+          
         </display>
     </data>
     </url>
 
     
-    
-  <url>
-    <loc>http://elangem.com/uncategorized/test01/</loc>
-    <lastmod>2018-01-27T04:58:38.909Z</lastmod>
-    <data>
-        <display>
-        <title>test01</title>
-        <pubTime>2018-01-27T04:57:20.000Z</pubTime>
-        
-        <tag>你好，测试</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://elangem.com/uncategorized/hello-world/</loc>
-    <lastmod>2018-01-27T04:38:34.345Z</lastmod>
-    <data>
-        <display>
-        <title>标签1</title>
-        <pubTime>2017-08-18T07:41:18.000Z</pubTime>
-        
-        <tag>hello</tag>
-         
-        <tag>world</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
     
     
   <url>

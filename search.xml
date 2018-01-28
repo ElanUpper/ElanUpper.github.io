@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[how to use hexo and apply theme clexy]]></title>
+    <url>%2Funcategorized%2Fuse%20clexy%2F</url>
+    <content type="text"><![CDATA[Quick StartInstall hexo and yarnplease get help from Yarn go throughand install the hexo, but before do that please install nodejs.npm install -g hexo-cli create a folder called blog, and access this folder. do following stepcd bloghexo inityarngit clone https://github.com/mkkhedawat/clexy themes/clexyyarn remove hexo-renderer-ejsyarn add hexo-renderer-jadeyarn add hexo-prism-plugin In root’s _config.yml :Change your theme variable to clexyAdd prism_plugin optionsprism_plugin: mode: 'preprocess' # realtime/preprocess theme: 'default' line_number: false # default false Make sure that default code highlight plugin is disabled.highlight: enable: false Post VariablesAdd the intro variable to your YAML in your Markdown file.Comments can be toggled with the comments boolean variable.Add tag to post using tags variable.---title: 'Title Name'date: 2017-06-01 21:56:56tags:- tag1- tag2intro : 'Enter intro here to display on home page'comments: false--- Optional ConfigTo configure about author page , add following tags in root’s _config.yml. Remove the config key, you don’t want.about : &#123; name : "Manish Kumar Khedawat", intro1 : "Full Stack Developer, Bosch", intro2 : "Alumni'14, IIT Kharagpur", linkedin : "https://in.linkedin.com/in/mkkhedawat", facebook : "https://www.facebook.com/mkkhedawat", twitter : "https://twitter.com/mkkhedawat", instagram : "https://www.instagram.com/mkkhedawat/", email : "writetomansa@gmail.com", github : "https://github.com/mkkhedawat", stackoverflow : "https://stackoverflow.com/users/1608029/mkkhedawat", sourceforge : "https://sourceforge.net/u/mkkhedawat/profile/"&#125; Add author and keywords meta tag in root’s _config.yml to be included for header fileauthor: Manish Kumar Khedawatkeywords: "pen, notes, coding, developer"Booting up blog$ hexo new page "articles"$ hexo new page "author"$ hexo new post "Title-1"$ hexo new post "Title-2" after all steps. the _config.yml like# Hexo Configuration## Docs: https://hexo.io/docs/configuration.html## Source: https://github.com/hexojs/hexo/# Sitetitle: 'elan and jem'date: 2017-06-01 21:56:56tags:- memoryintro : 'the memory of us'comments: false# URL## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'url: http://elangem.com/root: /permalink: :year/:month/:day/:title/permalink_defaults:# Directorysource_dir: sourcepublic_dir: publictag_dir: tagsarchive_dir: archivescategory_dir: categoriescode_dir: downloads/codei18n_dir: :langskip_render:# Writingnew_post_name: :title.md # File name of new postsdefault_layout: posttitlecase: false # Transform title into titlecaseexternal_link: true # Open external links in new tabfilename_case: 0render_drafts: falsepost_asset_folder: falserelative_link: falsefuture: truehighlight: enable: false line_number: true auto_detect: false tab_replace: # Home page setting# path: Root path for your blogs index page. (default = '')# per_page: Posts displayed per page. (0 = disable pagination)# order_by: Posts order. (Order by date descending by default)index_generator: path: '' per_page: 10 order_by: -date # Category &amp; Tagdefault_category: uncategorizedcategory_map:tag_map:# Date / Time format## Hexo uses Moment.js to parse and display date## You can customize the date format as defined in## http://momentjs.com/docs/#/displaying/format/date_format: YYYY-MM-DDtime_format: HH:mm:ss# Pagination## Set per_page to 0 to disable paginationper_page: 10pagination_dir: page# Extensions## Plugins: https://hexo.io/plugins/## Themes: https://hexo.io/themes/theme: clexy# Deployment## Docs: https://hexo.io/docs/deployment.htmldeploy: type: git repo: git@github.com:ElanUpper/ElanUpper.github.io.git branch: master message: about : &#123; name : "Elan", intro1 : "Developer, Beijing", email : "elan.wang01@gmail.com", github : "https://github.com/ElanUpper"&#125;prism_plugin: mode: 'preprocess' # realtime/preprocess theme: 'default' line_number: false # default false deploy to gitplease follow this blog Hexo GitHub tips]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[2017观看影视]]></title>
+    <url>%2F%E5%BD%B1%E9%9F%B3%2F%E5%BD%B1%E8%A7%86%2Fpasswd1%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>影音</category>
+        <category>影视</category>
+      </categories>
+      <tags>
+        <tag>影音</tag>
+        <tag>电影</tag>
+        <tag>电视剧</tag>
+        <tag>动画</tag>
+      </tags>
+  </entry>
+</search>
